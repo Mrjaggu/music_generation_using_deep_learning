@@ -15,6 +15,6 @@ libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, sci
 keras
 
 ## Reference
-https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5 <br>
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
